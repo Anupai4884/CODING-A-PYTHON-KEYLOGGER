@@ -11,14 +11,12 @@ r
 d
 Key.space
 i
-i
 s
 Key.space
 Key.space
 1
 2
-2
-3
 3
 4
 5
+6
